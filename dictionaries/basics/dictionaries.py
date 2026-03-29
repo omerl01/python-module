@@ -89,8 +89,8 @@
 #     "Bob": 80
 # }
 
-# for student in student_attendance:
-#     print(student, student_attendance[student])
+# for student, attendence in student_attendance.items():
+#     print(student, attendence)
 
 # # task 7 
 # student_attendance = {
