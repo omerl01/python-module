@@ -1,0 +1,8 @@
+# my_list = [20, 70, 10]
+# my_tuple = ("tuple",)
+# print(type(my_tuple))
+# set1 = {14, 5, 9, 31, 12, 77, 67, 8}
+# set2 = {5}
+# set2 = {5, 77, 9, 12}
+
+# print(set1.intersection(set2))

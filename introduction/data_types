@@ -1,0 +1,7 @@
+course_name = "history"
+print(course_name)
+print(type(course_name))
+
+course_name = 5
+print(type(course_name))
+#not best practice to change variable value because it can cause probelms if we don't remember at a certain point which value type is assaigned.
