@@ -159,10 +159,10 @@
 #         game_on = False
 
 # task 20
-entries = 0
-while True:
-    user_input = input("enter: ")
-    entries += 1
-    if user_input == "stop":
-        break
-print(entries)
+# entries = 0
+# while True:
+#     user_input = input("enter: ")
+#     entries += 1
+#     if user_input == "stop":
+#         break
+# print(entries)

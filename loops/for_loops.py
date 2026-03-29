@@ -125,10 +125,10 @@
 # for num in numbers:
 #     print(num **2)
 
-# task 20
-numbers = [4,7,6,5,10,12,22,23]
-even_numbers = []
-for num in numbers:
-    if num % 2 == 0:
-        even_numbers.append(num)
-print(even_numbers)
+# # task 20
+# numbers = [4,7,6,5,10,12,22,23]
+# even_numbers = []
+# for num in numbers:
+#     if num % 2 == 0:
+#         even_numbers.append(num)
+# print(even_numbers)
