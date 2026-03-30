@@ -71,6 +71,14 @@
 
 # task 10
 containers = ["c1", "c2", "c3", "c4"]
-for index, container in enumerate(containers):
-    if index < 2:
-        print(container)
+# for index, container in enumerate(containers):
+#     if index < 2:
+#         print(container)
+        
+
+list = ["Alice","Bob", "Charlie"]
+# list = [(0, "alice"), (1, "bob"), (2, "charlie")]
+
+for name in (list):
+    if name == "Bob":
+        print(name)
