@@ -91,4 +91,8 @@ class Movie:
         print(self.rating)
         
 apes = Movie("planet ofthe apes", 2000, 5, 130)
-apes.show()
+# apes.show()
+
+class Laptop:
+    def __init__(self, brand):
+        self
